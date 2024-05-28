@@ -1,7 +1,9 @@
 # exquisite-corpse-stage-1
 
 Exquisite Corpse in Silico
+
 🔻 But I don't Like Replying to Emails 🔻
+
 This README file contains:
 
 Briefs for each stage of the assignment
@@ -29,8 +31,11 @@ Comments for each stage
 
 🟥 Stage 1
 Name/Alias: Grace An
+
 Github account: https://github.com/Taropie3sui
+
 Published webpage for stage 1:
+
 ... comments to be added here
 
 🟨 Stage 2
