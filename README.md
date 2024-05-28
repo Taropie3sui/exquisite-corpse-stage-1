@@ -1,5 +1,5 @@
 # Exquisite Corpse in Silico
-## 🔻 *(unique title from stage 1 goes here)* 🔻
+## 🔻 *Gmail Chores* 🔻
 
 This README file contains:
 - Briefs for each stage of the assignment
