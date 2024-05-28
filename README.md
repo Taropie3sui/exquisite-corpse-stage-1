@@ -38,6 +38,7 @@ Published webpage for stage 1:
 
 ... comments to be added here
 
+
 🟨 Stage 2
 Name/Alias:
 Github account:
