@@ -9,6 +9,7 @@ Comments from each person who has developed this work
 Please only edit the comments section for the stage of the assignmnent you are working on. Leave the rest of this file as it is.
 
 Briefs for each stage
+
 🔴 Stage 1
 Create a sketch that shows an unconventional representation of time. This 'clock' should be constantly changing, but its appearance can repeat in a subsequent cycle. It does not need to follow a 24-hour cycle (you can use any timescale). Give your sketch a unique title and edit the README file accordingly.
 
@@ -25,6 +26,7 @@ Adapt a Stage 3 sketch into a text-based game. There should be different pathway
 Reimagine something from a Stage 4 sketch as a living entity or an environment.
 
 Comments for each stage
+
 🟥 Stage 1
 Name/Alias: Grace An
 Github account: https://github.com/Taropie3sui
