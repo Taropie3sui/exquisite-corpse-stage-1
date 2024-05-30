@@ -33,7 +33,18 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 - Github account: **https://github.com/Taropie3sui**
 - Published webpage for stage 1: **https://taropie3sui.github.io/exquisite-corpse-stage-1/**
 
-*... comments to be added here*
+**Overvie:w**
+The concept for this stage emphasized"unconventional time.” Being inspired by the daily, unnoticed moments spent managing digital communications, I created my code named ‘Gmail Chores’. One of some concerning issue about myself is the challenge of managing a growing stack of unread emails, social media messages, and notification.  These messages would pile up, result in anxiousness, then I would clear all of them at once in a while. The anxiety triggered by the red notification dots and the subsequent relief of clearing them highlights a cycle of digital chores that emphasize the time passing by when we manage the small chores in our life, even digitally.
+
+**Description:**
+This code is named "Gmail Chores," represents these digital upkeep tasks. As the notification count on the app logo decreases, it visually represents the time and effort spent reading and responding to emails. The satisfaction of watching these numbers drop, only to inevitably go back to 999, is showing the repetitive routine in my life.
+
+**Challenges and Reflection:**
+Initially, the concept of 'unconventional time' was a little abstract for me. The idea came through when I was browsing on my phone, looking for some inspirations. Then some notifications popped up.
+
+I am quite pleased with the final outcome. However, I could develop the code further by introducing more application logos and notifications. This could enhance the visual impact and further emphasize the overwhelming influx of digital communications.
+Additionally, I regret not implementing an animation for the decreasing numbers within the red notification dots. Ideally, the numbers would decrement from 999 to 1, and when reaching zero, the red dot would disappear completely—only to reappear with 999 again. This dynamic change would better illustrate the cyclical nature of our digital interactions.
+
 
 ### 🟨 Stage 2
 - Name/Alias:
